@@ -17,7 +17,7 @@ int main()
     int j = 0;
     int k = array_size - 1;
 
-    while (j < k || j != k)
+    while (j < k)
     {
         /* code */
         int tmp = arr[j];
